@@ -1,0 +1,5 @@
+/target
+
+# To protect from accidental uploads of user tasks, delete 'tasks.json' 
+# and run if you want to upload tasks.
+tasks.json
